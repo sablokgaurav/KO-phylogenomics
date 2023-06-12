@@ -1,5 +1,5 @@
 # Plant_computational_phylogenemoics
-This repository contains the Python, R and Java code which i coded using the mathematical expression for the genome based ontologies annotation and the phylogenomics informativeness.Although i coded this for plants but this is applicable to any genome annotations. 
+This repository contains the Python, R and Java code which i coded using the mathematical expression for the genome based ontologies annotation and the phylogenomics informativeness. Although i coded this for plants and bacteria but this is applicable to any genome annotations. 
 Gaurav Sablok
 Senior Postdoctoral Fellow
 *Faculty of Natural and Agricultural Sciences*
